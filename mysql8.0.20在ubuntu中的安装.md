@@ -14,7 +14,7 @@ tags:
 6. `use mysql;`
 7. `ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY '你的密码';`
 8. 退出mysql重进
-9. 可以直接用`sudo mysql -u root `输入上一步设置的密码进入
+9. 可以直接用`mysql -u root `输入上一步设置的密码进入
 <!--more-->
 
 ---
